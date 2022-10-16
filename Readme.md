@@ -4,6 +4,15 @@
   - [@](#)
   - [echo](#echo)
   - [rem 和 ::](#rem-和-)
+  - [pause](#pause)
+  - [title](#title)
+  - [color](#color)
+  - [mode](#mode)
+  - [goto](#goto)
+  - [退出命令exit exit/b goto:eof](#退出命令exit-exitb-gotoeof)
+  - [start](#start)
+  - [call](#call)
+  - [shift](#shift)
 - [第二章 常用特殊符号](#第二章-常用特殊符号)
 - [第三章 易出错举例](#第三章-易出错举例)
 - [第四章 一些常用的命令](#第四章-一些常用的命令)
@@ -18,6 +27,23 @@
 
 ## echo
 ## rem 和 ::
+
+## pause
+
+## title
+
+## color
+
+## mode
+## goto
+
+## 退出命令exit exit/b goto:eof
+
+## start
+
+## call
+
+## shift
 
 
 
